@@ -1,0 +1,29 @@
+.testimonials {
+    padding: 50px 10%;
+    text-align: center;
+}
+
+.testimonials blockquote {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.testimonials img {
+    margin-bottom: 20px;
+}
+
+.testimonials p {
+    font-size: 1rem;
+    color: #666;
+}
+
+.testimonials .author {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.testimonials .role {
+    font-size: 0.9rem;
+    color: #999;
+}

@@ -1,0 +1,29 @@
+.connect {
+    text-align: center;
+    padding: 50px 10%;
+}
+
+.connectContent {
+    display: flex;
+    align-items: center; 
+}
+
+.connectContent img {
+    max-width: 60%; 
+    margin-right: 90px; 
+    margin-left: 70px;
+}
+
+.connectText {
+    max-width: 40%;
+    text-align: left;
+}
+.connect h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.connect p {
+    font-size: 1.1rem;
+    color: #666;
+}

@@ -1,0 +1,34 @@
+.container {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    text-align: center; 
+}
+
+.nf {
+    font-size: 2rem; 
+    margin-bottom: 1rem; 
+}
+
+.nftext {
+    font-size: 1.2rem; 
+    margin-bottom: 2rem; 
+}
+
+.gohome{
+    background-color: #3D1EDD;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+    transition: background-color 0.3s ease; 
+}
+
+.gohome:hover {
+    background-color: #6a006a; 
+}
